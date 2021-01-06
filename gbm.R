@@ -1,6 +1,6 @@
 # Codes to run a gbm algorithm with a 8-fold CV of the HUNT2 samples in R. 
 # The outcome is a future breast cancer and the variables are serum metabolite and lipoprotein concentrations, measured by NMR, 
-# which are in the colums E to EA Molecules.xlsx file, while the outcome is stored in column A. 
+# which are in the columns E to EA in the Molecules.xlsx file, while the outcome is stored in column A. 
 # Data cannot be made available due to its sensitive nature.
 
 
